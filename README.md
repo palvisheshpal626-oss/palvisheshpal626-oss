@@ -115,7 +115,8 @@ If you are interested in:
 - ✅ Getting the **source code**
 - ✅ Requesting a **demo / details**
 
-📩 You can **directly contact me** via **Telegram or Email**.
+📩 You can **directly contact me** via **Telegram or Email**
+
 <p align="center">
   <a href="mailto:palvisheshpal626@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -123,7 +124,7 @@ If you are interested in:
     <a href="https://t.me/VISHESHKUMAR89">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
----
+
 
 ## ✨ App Features
 - 🧠 Brain training games to boost memory & focus  
