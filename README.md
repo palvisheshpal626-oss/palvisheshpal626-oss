@@ -97,7 +97,68 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
->
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=900&lines=Android+App+For+Sale;Source+Code+%7C+Demo+Available;Interested%3F+Contact+Me+Directly" />
+</p>
+
+---
+
+## 🚀 Android App for Sale / Demo Available
+
+I have developed a **fully functional Android application** focused on  
+**learning, brain training, coding practice, and logical thinking**.
+
+If you are interested in:
+- ✅ Buying the **complete app**
+- ✅ Getting the **source code**
+- ✅ Requesting a **demo / details**
+
+📩 You can **directly contact me** via **Telegram or Email**.
+<p align="center">
+  <a href="mailto:palvisheshpal626@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+    <a href="https://t.me/VISHESHKUMAR89">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+---
+
+## ✨ App Features
+- 🧠 Brain training games to boost memory & focus  
+- 💻 Coding games for logic & programming thinking  
+- ➗ Math & logic-based challenges  
+- 🔥 Daily Challenge mode for extra practice  
+- 📈 Difficulty increases gradually with levels  
+- 🎮 Multiple mini-games in one app  
+- 🚫 No crashes, smooth performance  
+- 💰 AdMob & Facebook Ads integrated  
+- 📱 Clean and simple user interface  
+- 🌐 Works offline (except ads)  
+- 👶 Suitable for students & learners  
+- 🎯 Improves speed, accuracy & logical thinking  
+
+---
+
+## 📄 App Description
+
+**Play & Learn: Code & Brain Games** is a fun and educational Android app  
+designed to improve **logic, memory, coding skills, and brain power**  
+through interactive games and challenges.
+
+This app is ideal for **students, beginners, and learners** who enjoy  
+**learning while playing**, with **multiple game modes**,  
+**daily challenges**, and **progressive difficulty levels**.
+
+---
+
+### 🔒 Note
+This app is **ready for sale, resale, or further customization**.  
+Serious buyers only — feel free to contact for **pricing, demo, or details**.
+
+---
+
 
 ---
 
