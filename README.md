@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=palvisheshpal626-oss&style=flat&color=grey" />
 </p>
 
----
+
 
 ## 🧠 WHO I AM
 🎓 **BCA Student**  
@@ -22,7 +22,6 @@
 
 > *Quiet work. Long-term thinking.*
 
----
 
 ## ⚔️ SKILLS & ABILITIES
 <p align="center">
@@ -36,7 +35,7 @@
 - Problem solving under pressure  
 - Trading psychology (discipline first)
 
----
+
 
 ## 🧬 TRADER PRINCIPLES
 - 📊 Probability > Emotion  
@@ -45,7 +44,7 @@
 - ⏳ Patience = Power  
 - ❌ No revenge trading  
 
----
+
 
 ## ⚠️ SYSTEM STATUS
 🟢 Active  
@@ -53,7 +52,7 @@
 📈 Disciplined  
 ⛔ No Gambling  
 
----
+
 
 ## 📊 GITHUB SIGNAL
 <p align="center">
@@ -64,21 +63,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palvisheshpal626-oss&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
+
 
 ## 🔥 DISCIPLINE STREAK
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=palvisheshpal626-oss&theme=github-dark&hide_border=true" />
 </p>
 
----
+
 
 ## 🐍 CONTRIBUTION FLOW
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 ## ☠️ CONNECT
 <p align="center">
   <a href="mailto:palvisheshpal626@gmail.com">
@@ -97,13 +95,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=900&lines=Android+App+For+Sale;Source+Code+%7C+Demo+Available;Interested%3F+Contact+Me+Directly" />
 </p>
 
----
+
 
 ## 🚀 Android App for Sale / Demo Available
 
@@ -140,7 +138,7 @@ If you are interested in:
 - 👶 Suitable for students & learners  
 - 🎯 Improves speed, accuracy & logical thinking  
 
----
+
 
 ## 📄 App Description
 
@@ -152,16 +150,16 @@ This app is ideal for **students, beginners, and learners** who enjoy
 **learning while playing**, with **multiple game modes**,  
 **daily challenges**, and **progressive difficulty levels**.
 
----
+
 
 ### 🔒 Note
 This app is **ready for sale, resale, or further customization**.  
 Serious buyers only — feel free to contact for **pricing, demo, or details**.
 
----
 
 
----
+
+
 
 <p align="center"><b>BUILD QUIETLY • THINK CLEARLY • EXECUTE CONSISTENTLY</b></p>
 
