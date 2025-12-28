@@ -79,16 +79,25 @@
 </p>
 
 ---
-
 ## ☠️ CONNECT
 <p align="center">
   <a href="mailto:palvisheshpal626@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/palvisheshpal626-oss">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://t.me/VISHESHKUMAR89">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/visheshpal__47?igsh=a3k4NnI2dmJzZmE5">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+>
 
 ---
 
